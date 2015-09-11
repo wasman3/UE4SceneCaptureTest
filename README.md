@@ -1,0 +1,12 @@
+# UE4SceneCaptureTest
+UnrealEngine4でのSceneCapture2D Testプロジェクト
+
+下記のキャラクターブループリント内にSceneCapture2Dをキャラクターにつけています。
+\SceneCaptureTest\Content\TopDownBP\Blueprints\TopDownCharacter.uasset
+
+下記フォルダにSceneCaptureしたものをマテリアル化し
+UMGで表示するブループリントが入っています
+\SceneCaptureTest\Content\TopDownBP\SceneCapture
+
+下記のレベルブループリント内で、上記で作成したUMGを画面内に表示しています
+\SceneCaptureTest\Content\TopDownBP\TopDownOverview.uasset
